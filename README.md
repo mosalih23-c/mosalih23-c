@@ -8,6 +8,7 @@ Turning data into insights and building practical, data-driven solutions.
 
 [![GitHub](https://img.shields.io/badge/GitHub-mosalih23--c-181717?style=for-the-badge&logo=github)](https://github.com/mosalih23-c)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mosalih23-c.github.io/mohamed-salih-portfolio/)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mosalih193@gmail.com)
 
 </div>
 
@@ -19,6 +20,16 @@ Turning data into insights and building practical, data-driven solutions.
 - 📊 Interested in Data Analytics, Business Intelligence, and Machine Learning.
 - 🔎 Experienced in data cleaning, exploratory data analysis, dashboard development, and predictive modeling.
 - 🌱 Always learning and building projects to strengthen my skills.
+
+## 💡 What I Do
+
+<div align="center">
+
+| 📊 Data Analytics | 📈 Business Intelligence | 🤖 Machine Learning |
+|---|---|---|
+| Data cleaning, EDA, SQL queries, and extracting actionable insights. | Interactive dashboards, KPI tracking, data visualization, and reporting. | Predictive modeling, classification, regression, and model evaluation. |
+
+</div>
 
 ## 🧰 Languages & Technologies
 
@@ -36,7 +47,7 @@ Turning data into insights and building practical, data-driven solutions.
 <br/>
 
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
-<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel" />
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Microsoft Excel" />
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
@@ -71,6 +82,7 @@ Turning data into insights and building practical, data-driven solutions.
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mosalih23-c)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mosalih193@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mosalih23-c.github.io/mohamed-salih-portfolio/)
 
 </div>
