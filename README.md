@@ -47,11 +47,11 @@ Turning data into insights and building practical, data-driven solutions.
 
 <br/>
 
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Microsoft Excel" />
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+<img src="https://cdn.simpleicons.org/powerbi/F2C811" width="48" height="48" alt="Power BI" />
+<img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="48" height="48" alt="Microsoft Excel" />
+<img src="https://cdn.simpleicons.org/tableau/E97627" width="48" height="48" alt="Tableau" />
+<img src="https://cdn.simpleicons.org/pandas/150458" width="48" height="48" alt="Pandas" />
+<img src="https://cdn.simpleicons.org/numpy/013243" width="48" height="48" alt="NumPy" />
 
 </div>
 
