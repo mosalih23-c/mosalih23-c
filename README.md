@@ -1,35 +1,82 @@
+<div align="center">
+
 # Mohamed Salih 👋
 
-**Data Analyst | BI Developer | Machine Learning Enthusiast**
+### Data Analyst | BI Developer | Machine Learning Enthusiast
 
-I use data to uncover insights and support better decisions.
+Turning data into insights and building practical, data-driven solutions.
 
-## About Me
-- Bachelor's degree in Information Technology and Computer Science.
-- Interested in Data Analytics, Business Intelligence, and Machine Learning.
-- Experienced with data analysis, dashboard development, and predictive modeling.
+[![GitHub](https://img.shields.io/badge/GitHub-mosalih23--c-181717?style=for-the-badge&logo=github)](https://github.com/mosalih23-c)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mosalih23-c.github.io/mohamed-salih-portfolio/)
 
-## Skills
-- **Programming:** Python, SQL
-- **Data Analysis:** Pandas, NumPy, Excel, data cleaning, EDA
-- **Visualization & BI:** Power BI, Tableau, Matplotlib
-- **Machine Learning:** Scikit-learn, model evaluation
-- **Tools:** Jupyter Notebook, Git, GitHub, VS Code
+</div>
 
-## Featured Projects
-- [HR Analytics Dashboard](https://github.com/mosalih23-c/hr-analytics-dashboard) — HR metrics and workforce insights using Power BI.
-- [Hospital Analytics Dashboard](https://github.com/mosalih23-c/hospital-analytics-powerbi) — Hospital performance analysis using Power BI.
-- [CodeAlpha Credit Scoring](https://github.com/mosalih23-c/CodeAlpha_CreditScoring) — Credit risk classification using machine learning.
-- [CodeAlpha Projects](https://github.com/mosalih23-c/codealpha_tasks) — Data analytics and machine learning tasks.
-- [Portfolio](https://github.com/mosalih23-c/portfolio) — Portfolio website and projects.
+---
 
-[View all repositories](https://github.com/mosalih23-c?tab=repositories)
+## 👨‍💻 About Me
 
-## GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mosalih23-c&show_icons=true&theme=tokyonight&hide_border=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mosalih23-c&layout=compact&theme=tokyonight&hide_border=true)
+- 🎓 Bachelor's degree in Information Technology and Computer Science.
+- 📊 Interested in Data Analytics, Business Intelligence, and Machine Learning.
+- 🔎 Experienced in data cleaning, exploratory data analysis, dashboard development, and predictive modeling.
+- 🌱 Always learning and building projects to strengthen my skills.
 
-## Connect
-- GitHub: [@mosalih23-c](https://github.com/mosalih23-c)
-- Portfolio: [View portfolio](https://mosalih23-c.github.io/mohamed-salih-portfolio/)
-- LinkedIn: Add your LinkedIn URL here.
+## 🧰 Languages & Technologies
+
+<div align="center">
+
+### Programming Languages
+<img src="https://skillicons.dev/icons?i=python,mysql,html,css,js,php" alt="Python, MySQL, HTML, CSS, JavaScript and PHP" />
+
+### Data Analysis & Machine Learning
+<img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch" alt="Scikit-learn, TensorFlow and PyTorch" />
+
+### Tools & Platforms
+<img src="https://skillicons.dev/icons?i=vscode,anaconda,jupyter,git,github,linux" alt="VS Code, Anaconda, Jupyter, Git, GitHub and Linux" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel" />
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+
+</div>
+
+## 📌 Featured Projects
+
+| Project | Description | Technologies |
+|---|---|---|
+| [HR Analytics Dashboard](https://github.com/mosalih23-c/hr-analytics-dashboard) | HR metrics and workforce insights. | Power BI |
+| [Hospital Analytics Dashboard](https://github.com/mosalih23-c/hospital-analytics-powerbi) | Hospital performance and operational analysis. | Power BI |
+| [Credit Scoring Model](https://github.com/mosalih23-c/CodeAlpha_CreditScoring) | Credit risk classification and model evaluation. | Python, Scikit-learn |
+| [CodeAlpha Projects](https://github.com/mosalih23-c/codealpha_tasks) | Data analytics and machine learning tasks. | Python, Pandas |
+| [Portfolio Website](https://github.com/mosalih23-c/portfolio) | Personal portfolio and project showcase. | HTML, CSS, JavaScript |
+
+[**Explore all repositories →**](https://github.com/mosalih23-c?tab=repositories)
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=mosalih23-c&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mosalih23-c&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mosalih23-c&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+
+</div>
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mosalih23-c)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mosalih23-c.github.io/mohamed-salih-portfolio/)
+
+</div>
+
+<div align="center">
+
+**Thanks for visiting my profile!**
+
+</div>
