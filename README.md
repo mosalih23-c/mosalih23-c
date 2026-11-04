@@ -9,7 +9,7 @@ Turning data into insights and building practical, data-driven solutions.
 [![GitHub](https://img.shields.io/badge/GitHub-mosalih23--c-181717?style=for-the-badge&logo=github)](https://github.com/mosalih23-c)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-salih-341bb0368/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mosalih23-c.github.io/mohamed-salih-portfolio/)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mosalih193@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:salihmohamed169@gmail.com)
 
 </div>
 
@@ -21,6 +21,16 @@ Turning data into insights and building practical, data-driven solutions.
 - 📊 Interested in Data Analytics, Business Intelligence, and Machine Learning.
 - 🔎 Experienced in data cleaning, exploratory data analysis, dashboard development, and predictive modeling.
 - 🌱 Always learning and building projects to strengthen my skills.
+
+## 📄 My CV
+
+<div align="center">
+
+[![Download CV](https://img.shields.io/badge/Download-My%20CV-2E8B57?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./MOHAMED%20SALIH111.pdf)
+
+**Download my latest CV in PDF format.**
+
+</div>
 
 ## 💡 What I Do
 
@@ -84,7 +94,7 @@ Turning data into insights and building practical, data-driven solutions.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-salih-341bb0368/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mosalih23-c)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mosalih193@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:salihmohamed169@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mosalih23-c.github.io/mohamed-salih-portfolio/)
 
 </div>
