@@ -7,6 +7,7 @@
 Turning data into insights and building practical, data-driven solutions.
 
 [![GitHub](https://img.shields.io/badge/GitHub-mosalih23--c-181717?style=for-the-badge&logo=github)](https://github.com/mosalih23-c)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-salih-341bb0368/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mosalih23-c.github.io/mohamed-salih-portfolio/)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mosalih193@gmail.com)
 
@@ -81,6 +82,7 @@ Turning data into insights and building practical, data-driven solutions.
 
 <div align="center">
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-salih-341bb0368/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mosalih23-c)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mosalih193@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mosalih23-c.github.io/mohamed-salih-portfolio/)
