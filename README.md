@@ -31,5 +31,5 @@ I use data to uncover insights and support better decisions.
 
 ## Connect
 - GitHub: [@mosalih23-c](https://github.com/mosalih23-c)
-- Portfolio: [View portfolio](https://github.com/mosalih23-c/portfolio)
+- Portfolio: [View portfolio](https://mosalih23-c.github.io/mohamed-salih-portfolio/)
 - LinkedIn: Add your LinkedIn URL here.
